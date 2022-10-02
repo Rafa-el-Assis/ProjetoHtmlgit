@@ -1,0 +1,16 @@
+h1{ color: blue;}
+a{color: rgb(122, 61, 61);}
+
+.texto{
+    font-size: 15;
+    color: red;
+}
+
+#titulo{
+    font-size: 16;
+    color: blueviolet;
+}
+
+p{
+    border: 5px #0000ff;
+}
